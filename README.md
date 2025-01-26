@@ -16,3 +16,4 @@ User Input: Enter the crop name, area, and sowing date. Upload a field image
 Data Processing: The system analyzes the inputs and calculates various parameters such as optimal growth periods and yield predictions using preloaded datasets and algorithms.
 
 Output Generation: Provides actionable insights such as the estimated yield, growth timelines, and specific recommendations for North and South Indian climatic zones
+Here's the previous version of our code: https://github.com/KarenTeddy0617/hackathon.git
