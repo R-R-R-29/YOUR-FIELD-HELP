@@ -4,7 +4,7 @@ import mysql.connector as sqlcon
 import os
 
 # Establish MySQL connection
-mcon = sqlcon.connect(host='localhost', user='root', passwd='root123', database='crops')
+mcon = sqlcon.connect(host='localhost', user='root', passwd='SQL1674@12', database='crops')
 cursor = mcon.cursor()
 
 try:
